@@ -9,6 +9,5 @@
 
 ## Project Overview 
 
-In anomaly detection, the local outlier factor (LOF) is an algorithm for finding anomalous data points by measuring the local deviation of a given data point with respect to its neighbors. The algorithm is suitable for detecting the outliers even if the data space has many areas with different densities as illustrated in the
-figure. LOF is a centralized algorithm, i.e., runs on a single machine. This project is aimed to make LOF to be distributed that can run on Hadoop. Also, optimizations are implemented to speed up the execution. 
+In anomaly detection, the local outlier factor (LOF) is an algorithm for finding anomalous data points by measuring the local deviation of a given data point with respect to its neighbors. The algorithm is suitable for detecting the outliers even if the data space has many areas with different densities. LOF is a centralized algorithm, i.e., runs on a single machine. This project is aimed to make LOF to be distributed that can run on Hadoop. Also, optimizations are implemented to speed up the execution. 
 
